@@ -1,6 +1,22 @@
+body{
+    background-color:rgba(233, 95, 95, 0.281)
+}
 p{
-    color: blue;
+    color:coral
 }
 h2{
     color: deeppink;
+}
+h1{
+    color:rgba(221, 96, 121, 0.425)
+}
+section{
+    border: 1px solid
+}
+article{
+    border: 2px
+    color:greenyellow
+}
+main{
+    background-color: rgba(126, 132, 223, 0.233);
 }
