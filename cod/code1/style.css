@@ -1,5 +1,5 @@
 body{
-    background-color:rgba(233, 95, 95, 0.281)
+    background-color: rgba(0, 255, 255, 0.116);
 }
 p{
     color:coral
@@ -14,8 +14,9 @@ section{
     border: 1px solid
 }
 article{
-    border: 2px
-    color:greenyellow
+    color:gold;
+
+    border : 2px
 }
 main{
     background-color: rgba(126, 132, 223, 0.233);
