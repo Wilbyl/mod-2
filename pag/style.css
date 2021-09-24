@@ -1,3 +1,16 @@
-h1{
-    color:blue
+h1 {
+  color: blue;
+  font-family: "Franklin Gothic Medium";
+}
+body {
+  background-image: url("mario-fundo.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  object-fit: cover;
+  vertical-align: bottom;
+  background-position: 0% 0%;
+  background-size: 100% 100%;
+}
+#all {
+  flex-direction: row;
 }
