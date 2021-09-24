@@ -1,26 +1,28 @@
 body{
-    background-color: rgba(0, 255, 255, 0.116);
+    background-color: rgba(255, 0, 0, 0.089);
 }
 p{
-    color:coral
+    color:rgb(0, 0, 0)
 }
 h2{
-    color: deeppink;
+    color: rgb(52, 0, 238);
 }
 h1{
-    color:rgba(221, 96, 121, 0.425)
+    color:rgb(255, 7, 57)
 }
 section{
     border: 1px solid
 }
 article{
-    color:gold;
+    color:rgba(228, 19, 11, 0.308);
 
     border : 2px
 }
 main{
     background-color: rgba(126, 132, 223, 0.233);
 }
-.padding{
-    border: 15px 
+#banco{
+    display: flex;
+    flex-direction: row;
+    
 }
