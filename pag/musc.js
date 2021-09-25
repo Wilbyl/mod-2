@@ -1,3 +1,3 @@
-function teste(){
-    alert("conseguiu!!")
+function teste () {
+alert('test');
 }
